@@ -12,10 +12,5 @@ I am a FullStack Engineer at ZopSmart with a passion for building scalable and e
 - **BHU**: MCA, 8.3 CGPA, 2022
 - **Mahatma Gandhi Kashi Vidyapith, Varanasi**: BCA, 72%, 2019
 
-## Certifications
-- Namaste React By Akshay Saini
-- Web Development By Angela Yu
-- 400+ DSA problem solved
-
 ## Get in Touch
 - Email: atishkushwaha148@gmail.com

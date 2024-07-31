@@ -7,14 +7,6 @@ I am a FullStack Engineer at ZopSmart with a passion for building scalable and e
 - **Programming Languages:** JavaScript, C++, CSS, HTML, TypeScript
 - **Libraries and Frameworks:** React, NodeJS, NextJS
 
-## Projects
-- **Zopping**: [Repository Link](#)
-  - Engineered and optimized a suite of reusable React.js components.
-  - Improved client revenue by 100%.
-- **RLog**: [Repository Link](#)
-  - Developed a centralized log management portal using Node.js.
-  - Tools: NodeJs, KoaJS, MySQL, TypeScript, Loki, Grafana, Prometheus.
-
 ## Education
 - **Scaler**: Specialized in Software Development & Problem Solving, 2024
 - **BHU**: MCA, 8.3 CGPA, 2022

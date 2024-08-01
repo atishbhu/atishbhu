@@ -8,7 +8,6 @@ I am a FullStack Engineer at ZopSmart with a passion for building scalable and e
 - **Libraries and Frameworks:** React, NodeJS, NextJS
 
 ## Education
-- **Scaler**: Specialized in Software Development & Problem Solving, 2024
 - **BHU**: MCA, 8.3 CGPA, 2022
 - **Mahatma Gandhi Kashi Vidyapith, Varanasi**: BCA, 72%, 2019
 
